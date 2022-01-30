@@ -10,6 +10,7 @@ description: "Otros títulos: Java, CSS, Algoritmos"
 ![algoritmia contenido](./img/algoritmia-contenido.png)
 
 ### CSS Secrets
+
 ![css secrets](./img/css-secrets.png)
 
 ![css secrets contenido](./img/css-secrets-contenido.png)

@@ -5,6 +5,7 @@ description: "Python"
 ---
 
 ### Black Hat Python
+
 ![python black hat](./img/python-black-hat.png)
 
 ![python black hat contenido](./img/python-black-hat-contenido.png)
@@ -21,10 +22,6 @@ description: "Python"
 
 ### Redes Neuronales
 ![difuso](./img/difuso.png)
-
-![difuso contenido](./img/difuso-contenido.png)
-
-![difuso contenido2](./img/difuso-contenido2.png)
 
 ![difuso contenido3](./img/difuso-contenido3.png)
 

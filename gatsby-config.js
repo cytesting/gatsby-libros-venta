@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Libros de Python e Informática`,
     author: {
-      name: ``,
-      summary: `Contacto: 3107489655`,
+      name: `Leonardo Martinez. `,
+      summary: `Teléfono: 3107489655`,
     },
     description: `Libros para la venta`,
     siteUrl: `https://librospython.gatsbyjs.io/`,
