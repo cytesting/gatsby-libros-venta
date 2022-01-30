@@ -4,7 +4,19 @@ date: "2022-01-29T22:10:03.284Z"
 description: "Libros a la venta"
 ---
 
-### Lista General
+### Lista Completa:
+
+* Python3 al Descubierto
+* Inteligencia Artificial
+* Programe Juegos con HTML
+* Sistemas Operativos
+* Redes Neuronales y Sistemas Difusos
+* Black Hat Python
+* HTML, CSS# y Javascript
+* CSS Secrets
+* Programación en C, C++, Java y UML
+* Algoritmia
+* Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
 
 ![general1](./img/general1.png)
 
