@@ -4,9 +4,7 @@ date: "2022-01-29T22:10:03.284Z"
 description: "Libros a la venta"
 ---
 
-Lista General
-
-![general1 2](./img/general1-2.png)
+### Lista General
 
 ![general1](./img/general1.png)
 

@@ -1,7 +1,7 @@
 ---
 title: Otros títulos
 date: "2022-01-29T09:12:03.284Z"
-description: "Otros títulos"
+description: "Otros títulos: Java, CSS, Algoritmos"
 ---
 
 ### Fundamentos de Algoritmia

@@ -3,10 +3,10 @@ module.exports = {
     title: `Libros de Python e Informática`,
     author: {
       name: ``,
-      summary: ``,
+      summary: `Contacto: 3107489655`,
     },
     description: `Libros para la venta`,
-    siteUrl: `https://gatsbylibrosventa.gatsbyjs.io/`,
+    siteUrl: `https://librospython.gatsbyjs.io/`,
     social: {
       twitter: ``,
     },
